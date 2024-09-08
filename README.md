@@ -16,7 +16,7 @@ The process overview can be summarized as follows:
 
 ## Techstack
 
-![Alt text](pictures/techstack_de_project.png)
+![Alt text](pictures/techstack_de_project.jpg)
 
 ## Code
 You can find the code here, along with an article that discusses the details of this project, at this link <link>.

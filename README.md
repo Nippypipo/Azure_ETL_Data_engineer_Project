@@ -18,7 +18,15 @@ The process overview can be summarized as follows:
 
 ![Alt text](pictures/techstack_de_project.jpg)
 # Code
-You can find the code here, along with an article that discusses the details of this project, at this link <link>.
+You can find the code here, along with an article that discusses the details of this project, at the link below.
+
+T-SQL Stored Procedure
+- [MergeMetadata.sql](https://github.com/Nippypipo/Azure_ETL_Data_engineer_Project/blob/main/sql_stored_procedures/MergeMetadata.sql)
+- [PayloadGenerator.sql](https://github.com/Nippypipo/Azure_ETL_Data_engineer_Project/blob/main/sql_stored_procedures/PayloadGenerator.sql)
+- [UpdateCleansedData.sql](https://github.com/Nippypipo/Azure_ETL_Data_engineer_Project/blob/main/sql_stored_procedures/UpdateCleansedData.sql)
+- [UpdateMetadata.sql](https://github.com/Nippypipo/Azure_ETL_Data_engineer_Project/blob/main/sql_stored_procedures/UpdateMetadata.sql)
+
+Spark Notebook
 - [main_merge_pipeline.ipynb](https://github.com/Nippypipo/Azure_ETL_Data_engineer_Project/blob/main/spark_notebook/main_merge_pipeline.ipynb).
 - [merge_functions.ipynb
 ](https://github.com/Nippypipo/Azure_ETL_Data_engineer_Project/blob/main/spark_notebook/merge_functions.ipynb)

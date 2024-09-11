@@ -33,3 +33,4 @@ Spark Notebook
 - [test_merge_functions.ipynb](https://github.com/Nippypipo/Azure_ETL_Data_engineer_Project/blob/main/spark_notebook/test_merge_functions.ipynb)
 
 # References
+- You can read a detailed explanation of this project in this article: (Medium Article)[https://medium.com/@nipunaungkawichai_54820/%E0%B8%AA%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%87-etl-pipeline-%E0%B8%94%E0%B9%89%E0%B8%A7%E0%B8%A2-microsoft-azure-end-to-end-data-engineer-project-554c3c90914c]

@@ -1,5 +1,7 @@
 Hello, today I'm going show my ETL pipeline project that I learned during my Data Engineer internship at BBIK.
 
+You can read a detailed explanation of this project in this medium article: [สร้าง ETL Pipeline ด้วย Microsoft Azure | End-to-end Data Engineer Project](https://medium.com/@nipunaungkawichai_54820/%E0%B8%AA%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%87-etl-pipeline-%E0%B8%94%E0%B9%89%E0%B8%A7%E0%B8%A2-microsoft-azure-end-to-end-data-engineer-project-554c3c90914c)
+
 # Overview
 This project overview involves creating an ETL pipeline from extracting data from the data source to delivering quality data for presentation in a PowerBI dashboard, primarily using Microsoft Azure: Cloud Computing Services.
 ![Alt text](pictures/overview_de_project.png)
@@ -32,5 +34,3 @@ Spark Notebook
 ](https://github.com/Nippypipo/Azure_ETL_Data_engineer_Project/blob/main/spark_notebook/merge_functions.ipynb)
 - [test_merge_functions.ipynb](https://github.com/Nippypipo/Azure_ETL_Data_engineer_Project/blob/main/spark_notebook/test_merge_functions.ipynb)
 
-# References
-- You can read a detailed explanation of this project in this medium article: [สร้าง ETL Pipeline ด้วย Microsoft Azure | End-to-end Data Engineer Project](https://medium.com/@nipunaungkawichai_54820/%E0%B8%AA%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%87-etl-pipeline-%E0%B8%94%E0%B9%89%E0%B8%A7%E0%B8%A2-microsoft-azure-end-to-end-data-engineer-project-554c3c90914c)

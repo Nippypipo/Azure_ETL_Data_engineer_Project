@@ -18,7 +18,7 @@ The process overview can be summarized as follows:
 
 ![Alt text](pictures/techstack_de_project.jpg)
 # Code
-You can find the code here, along with an article that discusses the details of this project, at the link below.
+You can find the code at the link below.
 
 T-SQL Stored Procedure
 - [MergeMetadata.sql](https://github.com/Nippypipo/Azure_ETL_Data_engineer_Project/blob/main/sql_stored_procedures/MergeMetadata.sql)

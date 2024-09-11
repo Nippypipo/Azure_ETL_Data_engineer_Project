@@ -20,6 +20,6 @@ The process overview can be summarized as follows:
 
 # Code
 You can find the code here, along with an article that discusses the details of this project, at this link <link>.
-
+!(spark_notebook/main_merge_pipeline.ipynb)
 
 # References

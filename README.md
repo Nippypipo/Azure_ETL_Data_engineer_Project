@@ -1,4 +1,4 @@
-Hello, today I'm going show my ETL pipeline project that I learned during my Data Engineer internship at BBIK.
+Hello, today I'm going show my ETL pipeline project that I learned during my summer internship 2024 as a Data Engineer intern at BBIK.
 
 You can read a detailed explanation of this project in this medium article: [สร้าง ETL Pipeline ด้วย Microsoft Azure | End-to-end Data Engineer Project](https://medium.com/@nipunaungkawichai_54820/%E0%B8%AA%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%87-etl-pipeline-%E0%B8%94%E0%B9%89%E0%B8%A7%E0%B8%A2-microsoft-azure-end-to-end-data-engineer-project-554c3c90914c)
 

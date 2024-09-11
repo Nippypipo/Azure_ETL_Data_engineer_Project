@@ -17,9 +17,11 @@ The process overview can be summarized as follows:
 # Techstack
 
 ![Alt text](pictures/techstack_de_project.jpg)
-[GitHub Pages](https://pages.github.com/).
 # Code
 You can find the code here, along with an article that discusses the details of this project, at this link <link>.
-!(spark_notebook/main_merge_pipeline.ipynb)
+- [main_merge_pipeline.ipynb](https://github.com/Nippypipo/Azure_ETL_Data_engineer_Project/blob/main/spark_notebook/main_merge_pipeline.ipynb).
+- [merge_functions.ipynb
+](https://github.com/Nippypipo/Azure_ETL_Data_engineer_Project/blob/main/spark_notebook/merge_functions.ipynb)
+- [test_merge_functions.ipynb](https://github.com/Nippypipo/Azure_ETL_Data_engineer_Project/blob/main/spark_notebook/test_merge_functions.ipynb)
 
 # References
